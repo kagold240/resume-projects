@@ -1,0 +1,1 @@
+This repository contains a few selections of coding assignments/projects I have completed for CSE/Mathematics courses using either Java or Python. For some of these projects, you may have to scroll past the instructor's directions in order to reach the code that I wrote.
